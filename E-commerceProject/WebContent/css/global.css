@@ -1,0 +1,29 @@
+
+.form-container{
+	border:1px solid;
+	padding:40px 50px;
+	margin-top:10vh;
+}
+.form-contaner{
+	border:1px solid;
+	padding:50px 60px;
+	margin-top:5vh;
+}
+h2{
+	text-align:center;
+}
+footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+}
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+}
+.row.content {height: 450px}
+.sidenav {
+      padding-top: 20px;
+      background-color: #f1f1f1;
+      height: 100%;
+}
